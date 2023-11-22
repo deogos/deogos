@@ -23,14 +23,6 @@ Sou um estudante de **Engenharia de Software** na *Universidade São Judas!* �
 
 Além disso, tenho uma formação técnica em Jogos Digitais pela *Etec Basilides de Godoy* 🎮
 
-No momento, estou aprendendo **Java**, aprimorando minhas habilidades de programação e buscando constantemente aprender e crescer.
-
-Estou em busca de oportunidades de estágio na área de desenvolvimento de software.
-
-Se você quiser saber mais sobre mim ou discutir oportunidades de colaboração, sinta-se à vontade para entrar em contato! 😄
-  
-  
-
 <br/>  
 
 
